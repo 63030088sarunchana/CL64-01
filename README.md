@@ -1,5 +1,0 @@
-# CL64-01
-Computer Laboratory 2564 - Lab 01
-
-My name is Sarunchana Srichanta
-Edited by Github Text Editor
